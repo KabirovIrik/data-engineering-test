@@ -13,7 +13,9 @@
 - Картинки возьмём отсюда https://github.com/NVlabs/ffhq-dataset
 
 <a href="test.ipynb">Скрипт</a> <br>
-<a href="result2/">Фотографии</a>
+<a href="result2/">Фотографии</a> - результат
+![image](https://user-images.githubusercontent.com/24974700/134824372-5045d281-c499-4a6e-87ed-91897321c907.png)
+
 
 
 ## Итог
